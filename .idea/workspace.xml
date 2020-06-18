@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10ee52e3-1ed1-43a6-971f-f608302d6a53" name="Default Changelist" comment="" />
+    <list default="true" id="10ee52e3-1ed1-43a6-971f-f608302d6a53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZxMXbF7Zps4Oeaxpe9gF4a2lF5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +46,54 @@
   <component name="RunManager">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Runner" />
-      <module name="JavaSpaceInvador" />
+      <module name="JavaSpaceInvader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaSpaceInvader" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JavaSpaceInvader" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,6 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585776331910</updated>
       <workItem from="1585776333823" duration="6895000" />
+      <workItem from="1586551816172" duration="142000" />
+      <workItem from="1592509448431" duration="548000" />
     </task>
     <servers />
   </component>
@@ -72,21 +128,21 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="271" y="268" key="#com.intellij.ide.util.MemberChooser/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585778491008" />
-    <state width="1061" height="290" key="GridCell.Tab.0.bottom" timestamp="1585789589967">
+    <state width="1591" height="290" key="GridCell.Tab.0.bottom" timestamp="1592510101492">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1061" height="290" key="GridCell.Tab.0.bottom/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585789589967" />
-    <state width="1061" height="290" key="GridCell.Tab.0.center" timestamp="1585789589966">
+    <state width="1591" height="290" key="GridCell.Tab.0.bottom/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1592510101492" />
+    <state width="1591" height="290" key="GridCell.Tab.0.center" timestamp="1592510101491">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1061" height="290" key="GridCell.Tab.0.center/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585789589966" />
-    <state width="1061" height="290" key="GridCell.Tab.0.left" timestamp="1585789589966">
+    <state width="1591" height="290" key="GridCell.Tab.0.center/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1592510101491" />
+    <state width="1591" height="290" key="GridCell.Tab.0.left" timestamp="1592510101491">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1061" height="290" key="GridCell.Tab.0.left/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585789589966" />
-    <state width="1061" height="290" key="GridCell.Tab.0.right" timestamp="1585789589966">
+    <state width="1591" height="290" key="GridCell.Tab.0.left/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1592510101491" />
+    <state width="1591" height="290" key="GridCell.Tab.0.right" timestamp="1592510101492">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1061" height="290" key="GridCell.Tab.0.right/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1585789589966" />
+    <state width="1591" height="290" key="GridCell.Tab.0.right/1920.79.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1592510101492" />
   </component>
 </project>
